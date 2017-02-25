@@ -1,8 +1,8 @@
-# section508-to-wcag2aa
+# Moving from Section 508 to WCAG 2.0 AA
 Comparing Section 508 to WCAG 2.0 AA
 
 
-|Proposed (WCAG 2.0 Success Criteria [Level])|Existing 508 Corresponding Provision|Summary|What would Change|Comment|
+|Proposed (WCAG 2.0 Success Criteria|Existing 508 Corresponding Provision|Summary|What would Change|Comment|
 |--- |--- |--- |--- |--- |
 |1.1.1 Non-text Content [A]|1194.22(a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent|Proposed standard provides additional detail for 8 common categories of non-text content.|
 |1.2.1 Prerecorded Audio-only and Video-only [A]|1194.22(a)|Provides that prerecorded audio is available in a visible format and that silent animations are available in an audible format|
@@ -10,6 +10,10 @@ Comparing Section 508 to WCAG 2.0 AA
 |1.2.3 Audio Description or Media Alternative (Prerecorded) [A]|1194.22(b) and .24(d)|Provides for audio description of prerecorded video and multimedia|
 |1.2.4 Captions (Live) [AA]|1194.22(b) and .24(c)|Provides for captioning of live video and multimedia|
 |1.2.5 Audio Description (Prerecorded) [AA]|1194.22(b) and .24(d)|Provides for audio description of live video and multimedia|
+|1.2.6|  |  |  |  |
+|1.2.7|  |  |  |  |
+|1.2.8|  |  |  |  |
+|1.2.0|  |  |  |  |
 |1.3.1 Information and Relationships [A]|1194.22(e) through (h)|Provides that information, structure, and relationships conveyed visually are available to users of assistive technology
 Provides that semantic markup be used for headings, lists, emphasized or special text, and tabular data, including the association of data cells with their headers|Substantially Equivalent|Proposed standard is written broadly and is technology neutral, whereas existing standard is specific to HTML image maps and data tables.|
 |1.3.2 Meaningful Sequence [A]|None|Provides for a reasonable and logical reading order  when using assistive technology|New||
