@@ -4,7 +4,7 @@ Comparing Section 508 to WCAG 2.0 AA
 
 |Proposed (WCAG 2.0 Success Criteria|Existing 508 Corresponding Provision|Summary|What would Change|Comment|
 |--- |--- |--- |--- |--- |
-|1.1.1 Non-text Content [A]|1194.22(a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent|Proposed standard provides additional detail for 8 common categories of non-text content.|
+|1.1.1 Non-text Content [A]|1194.22(a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent|WCAG 2.0 provides additional detail for categories of non-text content  [https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all][See WCAG 2.0 1.1.1].|
 |1.2.1 Prerecorded Audio-only and Video-only [A]|1194.22(a)|Provides that prerecorded audio is available in a visible format and that silent animations are available in an audible format|
 |1.2.2 Captions (Prerecorded) [A]|1194.22(b) and .24(c)|Provides for synchronized captioning of prerecorded video and multimedia.|Substantially Equivalent|Proposed standard distinguishes between live and prerecorded media.|
 |1.2.3 Audio Description or Media Alternative (Prerecorded) [A]|1194.22(b) and .24(d)|Provides for audio description of prerecorded video and multimedia|
