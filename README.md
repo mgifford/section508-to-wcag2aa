@@ -4,12 +4,12 @@ Comparing Section 508 to WCAG 2.0 AA
 
 |Proposed (WCAG 2.0 Success Criteria|Existing 508 Corresponding Provision|Summary|What would Change|Comment|
 |--- |--- |--- |--- |--- |
-|1.1.1 Non-text Content [A]|1194.22(a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent|WCAG 2.0 provides additional detail for categories of non-text content [See WCAG 2.0 1.1.1](https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all).|
-|1.2.1 Prerecorded Audio-only and Video-only [A]|1194.22(a)|Provides that prerecorded audio is available in a visible format and that silent animations are available in an audible format. [See WCAG 2.0 1.2.1](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt).|
-|1.2.2 Captions (Prerecorded) [A]|1194.22(b) and .24(c)|Provides for synchronized captioning of prerecorded video and multimedia.|Substantially Equivalent|Proposed standard distinguishes between live and prerecorded media. See [WCAG 2.0 1.2.2](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-captions).|
-|1.2.3 Audio Description or Media Alternative (Prerecorded) [A]|1194.22(b) and .24(d)|Provides for audio description of prerecorded video and multimedia|
-|1.2.4 Captions (Live) [AA]|1194.22(b) and .24(c)|Provides for captioning of live video and multimedia|
-|1.2.5 Audio Description (Prerecorded) [AA]|1194.22(b) and .24(d)|Provides for audio description of live video and multimedia|
+|1.1.1 Non-text Content [A]|1194.22(a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent|WCAG 2.0 provides additional detail for categories of non-text content [WCAG 2.0 1.1.1](https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all).|
+|1.2.1 Prerecorded Audio-only and Video-only [A]|1194.22(a)|Provides that prerecorded audio is available in a visible format and that silent animations are available in an audible format. [WCAG 2.0 1.2.1](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt).|
+|1.2.2 Captions (Prerecorded) [A]|1194.22(b) and .24(c)|Provides for synchronized captioning of prerecorded video and multimedia.|Substantially Equivalent|Proposed standard distinguishes between live and prerecorded media. [WCAG 2.0 1.2.2](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-captions).|
+|1.2.3 Audio Description or Media Alternative (Prerecorded) [A]|1194.22(b) and .24(d)|Provides for audio description of prerecorded video and multimedia  [WCAG 2.0 1.2.3](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-audio-desc)|
+|1.2.4 Captions (Live) [AA]|1194.22(b) and .24(c)|Provides for captioning of live video and multimedia [WCAG 2.0 1.2.4](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-real-time-captions)|
+|1.2.5 Audio Description (Prerecorded) [AA]|1194.22(b) and .24(d)|Provides for audio description of live video and multimedia [WCAG 2.0 1.2.5](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-audio-desc-only)|
 |1.2.6 Sign Language (Prerecorded) [AAA]|  |  |  |  |
 |1.2.7 Extended Audio Description (Prerecorded) [AAA]|  |  |  |  |
 |1.2.8 Media Alternative (Prerecorded) [AAA]|  |  |  |  |
