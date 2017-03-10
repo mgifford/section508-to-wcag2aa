@@ -1,6 +1,4 @@
-# Moving from Section 508 to WCAG 2.0 AA
-Comparing Section 508 to WCAG 2.0 AA
-
+# Moving from Old Section 508 to WCAG 2.0 AA
 
 |Proposed (WCAG 2.0 Success Criteria|Existing 508 Corresponding Provision|Summary|What would Change|Comment|
 |--- |--- |--- |--- |--- |
