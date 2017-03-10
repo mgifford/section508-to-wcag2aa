@@ -14,8 +14,7 @@ Comparing Section 508 to WCAG 2.0 AA
 |1.2.7 Extended Audio Description (Prerecorded) [AAA]|  |  |*New*||
 |1.2.8 Media Alternative (Prerecorded) [AAA]|  |  |*New*||
 |1.2.9 Audio-only (Live) [AAA]|  |  |*New*||
-|[1.3.1 Information and Relationships](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html) [A]|1194.22(e) through (h)|Provides that information, structure, and relationships conveyed visually are available to users of assistive technology
-Provides that semantic markup be used for headings, lists, emphasized or special text, and tabular data, including the association of data cells with their headers|Substantially Equivalent|Proposed standard is written broadly and is technology neutral, whereas existing standard is specific to HTML image maps and data tables.|
+|[1.3.1 Information and Relationships](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html) [A]|1194.22(e) through (h)|Provides that information, structure, and relationships conveyed visually are available to users of assistive technology. <br> Provides that semantic markup be used for headings, lists, emphasized or special text, and tabular data, including the association of data cells with their headers|Substantially Equivalent|Proposed standard is written broadly and is technology neutral, whereas existing standard is specific to HTML image maps and data tables.|
 |1.3.2 Meaningful Sequence [A]|None|Provides for a reasonable and logical reading order  when using assistive technology|**New**||
 |1.3.3 Sensory Characteristics [A]|None|Provides that instructions are not conveyed only through sound, shape, size, or visual orientation|**New**||
 |[1.4.1 Use of Color](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html) [A]|1194.21(i) and .22(c)|Provides that information and prompts are not conveyed only through color|Substantially Equivalent|No technical difference.|
