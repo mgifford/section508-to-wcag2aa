@@ -53,7 +53,7 @@ Comparing Section 508 to WCAG 2.0 AA
 |3.1.5 Reading Level [AAA]|  |  |*New*||
 |3.1.6 Pronunciation [AAA]|  |  |*New*||
 |[3.2.1 On Focus](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html) [A]|1194.21(l) and .22(n)|Provides that user interface components do not initiate a change of context when receiving focus|Substantially Equivalent|Proposed standard is explicit instead of having the requirement implicit in that “the form shall allow people using assistive technology to access the information, field elements, and functionality required for completion and submission of the form, including all directions and cues.”|
-|3.2.2 On Input [A]|1194.21(l) and .22(n)|Provides that changing the setting of user interface components does not automatically cause a change of context|
+|3.2.2 On Input [A]|1194.21(l) and .22(n)|Provides that changing the setting of user interface components does not automatically cause a change of context|Substantially Equivalent||
 |3.2.3 Consistent Navigation [AA]|None|Provides that repeated navigational components occur in the same relative order each time they are encountered|**New**||
 |3.2.4 Consistent Identification [AA]|1194.21(e)|Provides that components having the same functionality are identified consistently|Substantially Equivalent|Proposed standard is for all types of content instead of just “bitmap images”.|
 |3.2.5 Change on Request [AAA]|  |  |*New*||
