@@ -40,7 +40,7 @@
 |2.4.4 Link Purpose (In Context) [A]||Provides that the purpose of any link is understandable from its text or context|**New**| [2.4.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html) : The purpose of each link can be determined from the link text alone.|
 |2.4.5 Multiple Ways  [AA]||Provides for two or more means to locate content|**New**|[2.4.5](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-mult-loc.html) : Allow for multiple ways to navigate content (search, site-map,  and navigation menus)|
 |2.4.6 Headings and Labels [AA]||Provides that headings and labels are descriptive|**New**|[2.4.6](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html) : Headings and labels describe topic or purpose.|
-|2.4.7 Focus Visible [AA]|[1194.21c](https://section508.gov/content/quick-reference-guide#1194.21c)|Provides that the keyboard focus is visually apparent when using the keyboard to navigate|Substantially Equivalent|Proposed standard uses the phrase “indicator is visible” instead of “well-defined on-screen indication”.|
+|2.4.7 Focus Visible [AA]|[1194.21c](https://section508.gov/content/quick-reference-guide#1194.21c)|Provides that the keyboard focus is visually apparent when using the keyboard to navigate|Substantially Equivalent, simpler and more focused|Proposed standard uses the phrase “indicator is visible” instead of “well-defined on-screen indication”.|
 |2.4.8 Location [AAA]|  |  |*New*||
 |2.4.9 Link Purpose (Link Only) [AAA]|  |  |*New*||
 |2.4.10 Section Headings [AAA]|  |  |*New*||
