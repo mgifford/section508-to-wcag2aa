@@ -63,3 +63,14 @@
 |3.3.6 Error Prevention (All) [AAA]|  |  |*New*||
 |[4.1.1 Parsing](http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html) [A]||Provides that significant HTML/XHTML validation and parsing errors in source code are avoided|**New**|[4.1.1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html) : Follow web standard best practices.|
 |4.1.2 Name, Role, Value [A]|[1194.21d](https://section508.gov/content/quick-reference-guide#1194.21d)|Provides that sufficient information (including identity, operation, and state) about user interface components is available to assistive technology|Substantially Equivalent|Proposed standard uses the phrase “programmatically determined” instead of “available to assistive technology”.|
+
+## Not covered in WCAG 2.0
+
+Old 508 Provision|Summary|Comment|
+|--- |--- |--- |
+| 508 1194.22d  | Documents shall be organized so they are readable without requiring an associated style sheet.  | Counter productive as CSS is well supported by AT, and useful to everyone, including users of AT  |
+| 508 1194.22l  | When pages utilize scripting languages to display content, or to create interface elements, the information provided by the script shall be identified with functional text that can be read by assistive technology.  | As JavaScript has evolved, it is not realistic to have one and only one requirement for JavaScript. All of WCAG 2.0 applies the whole page, including any use of JavaScript |
+| 508 1194.22m  | When a web page requires that an applet, plug-in or other application be present on the client system to interpret page content, the page must  provide a link to a plug-in or applet that complies with § 1194.21(a) through (l).  | As web technology has evolved, it is often not possible to tell when a plug-in or applet is required. All of WCAG 2.0 applies to the whole page, including any use of plugs-ins or applets  |
+| 508 1194.22k | A text-only page, with equivalent information or functionality, shall be provided to make a web site comply with the provisions of this part, when compliance cannot be accomplished in any other way.  The content of the text - only page shall be updated whenever the primary page changes. | Text-only pages are no longer recommended. Note that a text-only page” would almost never satisfy this definition. |
+
+
