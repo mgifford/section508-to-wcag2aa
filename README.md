@@ -1,5 +1,7 @@
 # Moving from Old Section 508 to WCAG 2.0 AA
 
+## Much of this comes directly from the work of the [United States Access Board](https://www.access-board.gov/wcag2-508)
+
 |WCAG 2.0 Success Criteria|Old 508 Provision|Summary|Similar?|Comment|
 |--- |--- |--- |--- |--- |
 |[1.1.1 Non-text Content](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html) [A]|[1194.22a](https://section508.gov/content/quick-reference-guide#1194.22a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent with more detail|WCAG 2.0 provides additional detail for categories of non-text content (Controls/Input, Time-Based Media, Test, Sensory, CAPTCHA, Decoration/Formatting/Invisible).|
@@ -66,11 +68,11 @@
 
 ## Not covered in WCAG 2.0
 
+### This text is taken from United States Access Board slides
+
 Old 508 Provision|Summary|Comment|
 |--- |--- |--- |
 | 508 1194.22d  | Documents shall be organized so they are readable without requiring an associated style sheet.  | Counter productive as CSS is well supported by AT, and useful to everyone, including users of AT  |
 | 508 1194.22l  | When pages utilize scripting languages to display content, or to create interface elements, the information provided by the script shall be identified with functional text that can be read by assistive technology.  | As JavaScript has evolved, it is not realistic to have one and only one requirement for JavaScript. All of WCAG 2.0 applies the whole page, including any use of JavaScript |
 | 508 1194.22m  | When a web page requires that an applet, plug-in or other application be present on the client system to interpret page content, the page must  provide a link to a plug-in or applet that complies with § 1194.21(a) through (l).  | As web technology has evolved, it is often not possible to tell when a plug-in or applet is required. All of WCAG 2.0 applies to the whole page, including any use of plugs-ins or applets  |
 | 508 1194.22k | A text-only page, with equivalent information or functionality, shall be provided to make a web site comply with the provisions of this part, when compliance cannot be accomplished in any other way.  The content of the text - only page shall be updated whenever the primary page changes. | Text-only pages are no longer recommended. Note that a text-only page” would almost never satisfy this definition. |
-
-
