@@ -1,6 +1,6 @@
 # Moving from Old Section 508 to WCAG 2.0 AA
 
-## Much of this comes directly from the work of the [United States Access Board](https://www.access-board.gov/wcag2-508)
+### Much of this comes directly from the work of the [United States Access Board](https://www.access-board.gov/wcag2-508)
 
 |WCAG 2.0 Success Criteria|Old 508 Provision|Summary|Similar?|Comment|
 |--- |--- |--- |--- |--- |
