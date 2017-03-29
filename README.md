@@ -2,7 +2,7 @@
 
 ### Much of this comes directly from the work of the [United States Access Board](https://www.access-board.gov/wcag2-508)
 
-|WCAG 2.0 Success Criteria|Old 508 Provision|Summary|Similar?|Comment|
+|WCAG 2.0 Success Criteria|Original 508 (Old)|Summary|Similar?|Comment|
 |--- |--- |--- |--- |--- |
 |[1.1.1 Non-text Content](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html) [A]|[1194.22a](https://section508.gov/content/quick-reference-guide#1194.22a)|Provides for text alternatives of images and other non-text content, including user interface components|Substantially Equivalent with more detail|WCAG 2.0 provides additional detail for categories of non-text content (Controls/Input, Time-Based Media, Test, Sensory, CAPTCHA, Decoration/Formatting/Invisible).|
 |[1.2.1 Prerecorded Audio-only and Video-only](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-av-only-alt.html) [A]|[1194.22a](https://section508.gov/content/quick-reference-guide#1194.22a)|Provides that prerecorded audio is available in a visible format and that silent animations are available in an audible format. |Substantially Equivalent with more detail| [WCAG 2.0 1.2.1](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt).|
@@ -70,7 +70,7 @@
 
 ### This text is taken from United States Access Board slides
 
-Old 508 Provision|Summary|Comment|
+Original 508 (Old)|Summary|Comment|
 |--- |--- |--- |
 | 508 1194.22d  | Documents shall be organized so they are readable without requiring an associated style sheet.  | Counter productive as CSS is well supported by AT, and useful to everyone, including users of AT  |
 | 508 1194.22l  | When pages utilize scripting languages to display content, or to create interface elements, the information provided by the script shall be identified with functional text that can be read by assistive technology.  | As JavaScript has evolved, it is not realistic to have one and only one requirement for JavaScript. All of WCAG 2.0 applies the whole page, including any use of JavaScript |
